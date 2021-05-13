@@ -1,0 +1,12 @@
+{
+  "name": "mojojs_demo",
+  "version": "1.0.0",
+  "description": "mojojs demo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: Tests TBC\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
