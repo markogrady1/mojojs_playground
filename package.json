@@ -8,5 +8,8 @@
     "test": "echo \"Error: Tests TBC\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@mojojs/core": "^0.0.8"
+  }
 }

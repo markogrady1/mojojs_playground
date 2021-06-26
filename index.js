@@ -1,4 +1,4 @@
-import mojo from '@mojojs/mojo';
+import mojo from '@mojojs/core';
 import sillyStringPlugin from './plugins/silly-string.js';
 
 const app = mojo();
